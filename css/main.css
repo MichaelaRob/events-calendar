@@ -1,5 +1,5 @@
 html {
-  font-family: "Merriweather", serif;
+  font-family: Merriweather, serif;
 }
 
 table {
@@ -9,7 +9,6 @@ table {
 
 th, td {
   border: 1px solid #e2e2e2;
-  font-weight: bold;
 }
 
 td {
