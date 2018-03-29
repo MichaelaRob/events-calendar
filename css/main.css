@@ -1,5 +1,5 @@
 html {
-  font-family: 'Merriweather', serif;
+  font-family: "Merriweather", serif;
 }
 
 table {
@@ -25,17 +25,18 @@ td {
   border: 1px solid #666;
   border-radius: 8px;
   background-color: #f2f2f2;
+  color: #333;
 }
 
 .red {
-  border: 1px solid #991919;
+  border: 1px solid #b92828;
   border-radius: 8px;
   color: #991919;
   background-color: #f2bcbc;
 }
 
 .green {
-  border: 1px solid #51603f;
+  border: 1px solid #6b7e54;
   border-radius: 8px;
   color: #51603f;
   background-color: #d1e0bf;
